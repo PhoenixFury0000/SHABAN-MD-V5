@@ -1,6 +1,6 @@
-name: shaban-md
+name: PhoenixFury 
 services:
-  - name: shaban-md-service
+  - name: Phoenix-md-services 
     type: web
     ports:
       - 5000
