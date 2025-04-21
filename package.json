@@ -1,12 +1,12 @@
 {
-  "name": "SHABAN-MD",
+  "name": "PhoenixFury",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By MR-SHABAN",
+  "description": "A WhatsApp Bot Created By PhoenixFury",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
-    "stop": "pm2 stop SHABAN-MD",
-    "restart": "pm2 restart SHABAN-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name PhoenixFury",
+    "stop": "pm2 stop PhoenixFury",
+    "restart": "pm2 restart PhoenixFury"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.16",
