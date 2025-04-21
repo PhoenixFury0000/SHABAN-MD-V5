@@ -1,14 +1,14 @@
 {
-  "name": "SHABAN-MD",
+  "name": "PhoenixFury",
   "description": "Javascript WhatsApp bot made by MR-SHABAN",
-  "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
-  "keywords": ["SHABAN-MD"],
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLndAvutW3hJc2YPuHTUTIy3D9fzkNhS20meCvT1lxnPSRRvsifVdjbLI&s=10",
+  "keywords": ["PhøenixFury"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
-      "description": "Put the session-id here.",
+    "SESSION_ID":{
+      "description": "SHABAN-MD~r1h02Ypa#nMOFRQH7RC3tN95Da3RFtB10YtiyO-umtYnk3rJzqYo",
       "required": true,
       "value": ""
     },  
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "PhoenixFury"
     }, 
       
     "PREFIX": {
